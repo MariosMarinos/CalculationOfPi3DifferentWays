@@ -1,0 +1,14 @@
+-Arxika h akoulouthiaki lush gia numSteps = 2000000000 vriskei to apotelesma se xrono peripou
+miso lepto(27.4 deuterlopta).
+-Epeita xrisimopoiontas thn 1h lush gia idio arithmo numSteps vriskoume to apotelesma se xrono
+peripou 3 deuterolepta kati pou deixnei oti upoeniaplasiastike o apaitoumenos xronos gia 
+ton upologismo tou pi!
+-Xrhsimopoiontas thn 2h lush gia idio arithmo numSteps kai 4 clients pairnoume to anameno 
+apotelesma pou einai ousiastika 3 deuterolepta (kati pou perimename afou ousiastika einai
+san na exoume tin 1i lush apla se alla mixanimata)
+-Telos xrisimopoiontas thn 3h lush gia idio arithmo numSteps kai clients vriskoume to 
+apotelesma mesa se peripou 2.5 defterolepta to opoio einai mia mikrh veltiwsh apo tin 1h
+kai 2h lush. Epishs den exw valei sxolia sthn 3h lush mias kai einai o sundiasmos tis 1hs
+kai ths 2hs opote ypethesa oti einai peritta.
+
+Marios Marinos(dai17147) 
