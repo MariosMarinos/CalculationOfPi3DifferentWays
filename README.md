@@ -1,3 +1,3 @@
 # Pdc_3rdAssignment
-3 different ways to calculate Pi [threading, server-worker, server-worker(local threads on worker)]
-You should do javac <NameFile> .java then run it with java <NameFile> <arguments> expected.
+3 different ways to calculate Pi [local threading, server-worker design, server-worker(local threads on worker)]
+You should compile the files needed in order to be able to run them with java <NameFile> <arguments> expected.
